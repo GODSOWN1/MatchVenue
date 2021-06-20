@@ -48,7 +48,7 @@ const VenueNfo = () => {
                                         Event Location
                                     </div>
                                     <div className="vn_desc">
-                                        375 Deer Oak, Oakland, CA 9835
+                                        CampNou Standium, Barcelona
                                     </div>
                                 </div>
                             </div>

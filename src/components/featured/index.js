@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 import Carrousel from './Carrousel';
 import TimeUntil from './TimeUntil';
 
@@ -8,7 +8,7 @@ function Featured() {
             <Carrousel />
             <div className="artist_name">
                 <div className="wrapper">
-                    Ariana Grande
+                    The Catalan Giants
                 </div>
             </div>
             <TimeUntil />
@@ -16,4 +16,4 @@ function Featured() {
     )
 }
 
-export default Featured;  
+export default Featured;
